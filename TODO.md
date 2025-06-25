@@ -1,16 +1,16 @@
 FARM
-organize inventory
+forage bus
 prep furnace and ores
 harvest crops
 plant crops
-water crops
-prep furnace and ores
-
-
-prep parsnip for pam
-prep copper bars x5
+organize inventory
+prep selling for 4k
+prep 300 wood for bridge repair
+prep jodi cauliflower
 
 TOWN
+gift jodi cauliflower
+
 sell crops
 make copper axe
 break geode
@@ -18,23 +18,19 @@ donate to museum
 gift pam parsnip
 salmonberry town
 
-FOREST
-salmonberry forest
-
 FARM
-salmonberry north
+water crops
 
 MOUNTAIN
-salmonberry lake
 setup furnace at mine entrance
 mine until ores are fetched
 
 <!-- TODAY -->
+combat until lvl 2
 mine until ores are fetched
 iron ore x20
 
 <!-- THIS WEEK -->
-mine until lvl 3
 fish until lvl 7
 
 coop
