@@ -1,42 +1,41 @@
+<!-- DOING -->
 FARM
-forage bus
 prep furnace and ores
-harvest crops
-plant crops
-organize inventory
-prep selling for 4k
 prep 300 wood for bridge repair
 prep jodi cauliflower
+harvest crops
+plant crops
+water crops
+prep crops to sell
 
 TOWN
+sell crops
 gift jodi cauliflower
 
-sell crops
-make copper axe
-break geode
-donate to museum
-gift pam parsnip
-salmonberry town
+BEACH
+sell fish
 
 FARM
 water crops
+prep wood 300
+prep stone 100
+
 
 MOUNTAIN
 setup furnace at mine entrance
-mine until ores are fetched
+combat for 6 slime
+mine for iron ores x20
+combat for lvl 2
+
+TOWN
+saloon gift
+emily trash
 
 <!-- TODAY -->
-combat until lvl 2
-mine until ores are fetched
-iron ore x20
+foraging
 
 <!-- THIS WEEK -->
 fish until lvl 7
-
-coop
-- gold 4000
-- wood 300
-- stone 100
 
 chicken
 - gold 800
@@ -77,3 +76,8 @@ tapper
 - copper bar 2
 
 salmonberries done
+
+coop
+- gold 4000
+- wood 300
+- stone 100
