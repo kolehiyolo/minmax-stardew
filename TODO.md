@@ -1,88 +1,83 @@
 FARM
-harvest crops
-harvest tappers
+<!-- DOING -->
+setup furnaces
+feed barn
+feed coop
+mushroom cave
+harvest crab pot
+water crops
+prep selling
 
-MOUNTAIN
-combat dust sprites
-fetch mountain loot
+CRAFT
+- cooking kit
+- 
+cook sashimi
 
 TOWN
 get quest
-
-FOREST
-complete quest for wizard
-buy cow
-- gold 1500
+sell to pierre
+buy radish seeds x8
+buy poppy seeds x8
+gift gus topaz
+fetch loot
 
 FARM
-bait crab pots 
-cave mushrooms
-feed cow
-feed chickens
-<!-- DOING -->
-cleanup until 6pm
+store stuff
+fetch furnaces
 
-FOREST
-harvest wood
-fish for bream
+MOUNTAIN
+mining day
+combat 3 ghosts
+get lots of gold
 
 <!-- TODAY -->
 
-
 <!-- THIS WEEK -->
+- ocean fish before 2pm
+- luau bring gold purple mushroom
+- big bag
+- bait maker x1
+- cheese press x1
+- mayonnaise machine x1
+- lightning rods x5
+- crab pot x2
+- preserve jar x2
+- sprinklers x9
+- cows x3
+- chickens x2
+- cheese press x3
+- mayonnaise machine x2
 
-summer crops
-- gold 10000
+worm bin
+- gold bar x1
+- iron bar x1
+- fiber x50
+- hardwood x15
+cheese press
+- copper bar x1
+- wood x45
+- stone x45
+- hardwood x10
+mayonnaise machine
+- copper bar x1
+- wood x15
+- stone x15
+- earth crystal x1
+lightning rods
+- bat wing x5
+- iron bar x1
+- quartz bar x1
+crab pot
+- wood x40
+- iron bar x3
+preserve jar
+- coal x8
+sprinklers
+- gold bar x1
+- iron bar x1
+- quartz bar x1
 
-16 sprinklers
-- 16 gold bars = 80 ores
-- 16 quartz bars = 80 ores
-- 16 iron bars = 80 ores
+
+<!-- NEXT WEEK -->
 
 <!-- DONE -->
-recycling machine
-- wood 25
-- stone 25
-- iron bar 1
-
-preserve jar
-- wood 50
-- stone 40
-- coal 8
-
-copper axe
-- copper bar 5
-- gold 2000
-
-tapper
-- wood 40
-- copper bar 2
-
-salmonberries done
-
-coop
-- gold 4000
-- wood 300
-- stone 100
-
-crab pot
-- wood 40
-- iron bar 3
-
-buy chicken x2
-- gold 1600
-buy milk pail
-- gold 1000
-build barn
-- gold 6000
-- wood 350
-- stone 150
-smith watering can iron
-- gold 5000
-- iron bar 5
-
-bee house
-- wood 40
-- coal 8
-- iron bar 1
-- maple syrup 1
